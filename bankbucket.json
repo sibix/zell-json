@@ -7,7 +7,9 @@
 		"likes": 1337,
 		"messages": 98,
 		"shares": 22,
-		"bgclass": "brand"
+		"bgclass": "brand",
+		"whatsappNum":9995305181,
+		"btnText":"Check Eligibility"
 	},
 	{
 		"url": "https://raw.githubusercontent.com/sibix/zell-json/main/backgrounds/bullseye-gradient.svg",
@@ -17,7 +19,9 @@
 		"likes": 6141,
 		"messages": 81,
 		"shares": 136,
-		"bgclass": "blue"
+		"bgclass": "blue",
+		"whatsappNum":9995305181,
+		"btnText":"Apply now"
 		
 	},
 	{
@@ -28,7 +32,9 @@
 		"likes": 321,
 		"messages": 4,
 		"shares": 15,
-		"bgclass": "green"
+		"bgclass": "green",
+		"whatsappNum":9995305181,
+		"btnText":"I'm intersted"
 	},
 	{
 		"url": "https://raw.githubusercontent.com/sibix/zell-json/main/backgrounds/bullseye-gradient.svg",
@@ -38,6 +44,8 @@
 		"likes": 441,
 		"messages": 4,
 		"shares": 10,
-		"bgclass": "red"
+		"bgclass": "red",
+		"whatsappNum":9995305181,
+		"btnText":"Apply now"
 	}
 ]
