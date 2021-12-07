@@ -1,6 +1,6 @@
 [
 	{
-		"url": "https://d1lfs7vzgvps2q.cloudfront.net/images/website/img/1920x1080/01.webp",
+		"url": "https://raw.githubusercontent.com/sibix/zell-json/main/backgrounds/bullseye-gradient.svg",
 		"channel": "Business Loan",
 		"description": "Our Loan, your growth.. description for Business Loan",
 		"song": "Your song name could go here https://raw.githubusercontent.com/sibix/zell-json/main/cards.json ",
@@ -9,7 +9,7 @@
 		"shares": 22
 	},
 	{
-		"url": "https://github.com/codedamn-classrooms/tiktok-react-material/raw/main/v2.mp4",
+		"url": "https://raw.githubusercontent.com/sibix/zell-json/main/backgrounds/bullseye-gradient.svg",
 		"channel": "Personal Loan",
 		"description": "Our Loan, your growth.. description for personal Loan",
 		"song": "Another cool song",
@@ -18,7 +18,7 @@
 		"shares": 136
 	},
 	{
-		"url": "https://github.com/codedamn-classrooms/tiktok-react-material/raw/main/v3.mp4",
+		"url": "https://raw.githubusercontent.com/sibix/zell-json/main/backgrounds/liquid-cheese.svg",
 		"channel": "Home Loan",
 		"description": "Our Loan, your growth.. description for personal Loan",
 		"song": "Very cool song",
@@ -27,7 +27,7 @@
 		"shares": 15
 	},
 	{
-		"url": "https://github.com/codedamn-classrooms/tiktok-react-material/raw/main/v4.mp4",
+		"url": "https://raw.githubusercontent.com/sibix/zell-json/main/backgrounds/bullseye-gradient.svg",
 		"channel": "bankBucket",
 		"description": "Final description, woah, this works great",
 		"song": "Nice song name here",
