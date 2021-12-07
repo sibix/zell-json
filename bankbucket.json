@@ -2,7 +2,7 @@
 	{
 		"url": "https://raw.githubusercontent.com/sibix/zell-json/main/backgrounds/bullseye-gradient.svg",
 		"channel": "Business Loan",
-		"description": "Our Loan, your growth.. description for Business Loan",
+		"description": "Our Loan, your growth.. description for Business Loan. Our Loan, your growth.. description for Business Loan.Our Loan, your growth.. description for Business Loan",
 		"song": "Your song name could go here https://raw.githubusercontent.com/sibix/zell-json/main/cards.json ",
 		"likes": 1337,
 		"messages": 98,
@@ -12,7 +12,7 @@
 	{
 		"url": "https://raw.githubusercontent.com/sibix/zell-json/main/backgrounds/bullseye-gradient.svg",
 		"channel": "Personal Loan",
-		"description": "Our Loan, your growth.. description for personal Loan",
+		"description": "Our Loan, your growth.. description for Business Loan. Our Loan, your growth.. description for Business Loan.Our Loan, your growth.. description for Business Loan",
 		"song": "Another cool song",
 		"likes": 6141,
 		"messages": 81,
@@ -22,8 +22,8 @@
 	},
 	{
 		"url": "https://raw.githubusercontent.com/sibix/zell-json/main/backgrounds/liquid-cheese.svg",
-		"channel": "Home Loan",
-		"description": "Our Loan, your growth.. description for personal Loan",
+		"channel": "Mortgage Loan",
+		"description": "Our Loan, your growth.. description for Business Loan. Our Loan, your growth.. description for Business Loan.Our Loan, your growth.. description for Business Loan",
 		"song": "Very cool song",
 		"likes": 321,
 		"messages": 4,
@@ -32,8 +32,8 @@
 	},
 	{
 		"url": "https://raw.githubusercontent.com/sibix/zell-json/main/backgrounds/bullseye-gradient.svg",
-		"channel": "bankBucket",
-		"description": "Final description, woah, this works great",
+		"channel": "Vehicle Loan",
+		"description": "Our Loan, your growth.. description for Business Loan. Our Loan, your growth.. description for Business Loan.Our Loan, your growth.. description for Business Loant",
 		"song": "Nice song name here",
 		"likes": 441,
 		"messages": 4,
