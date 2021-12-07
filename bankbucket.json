@@ -28,7 +28,7 @@
 		"likes": 321,
 		"messages": 4,
 		"shares": 15,
-		class": "green"
+		"class": "green"
 	},
 	{
 		"url": "https://raw.githubusercontent.com/sibix/zell-json/main/backgrounds/bullseye-gradient.svg",
@@ -38,6 +38,6 @@
 		"likes": 441,
 		"messages": 4,
 		"shares": 10,
-		class": "red"
+		"class": "red"
 	}
 ]
