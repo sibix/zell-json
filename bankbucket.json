@@ -6,7 +6,8 @@
 		"song": "Your song name could go here https://raw.githubusercontent.com/sibix/zell-json/main/cards.json ",
 		"likes": 1337,
 		"messages": 98,
-		"shares": 22
+		"shares": 22,
+		"class": "brand"
 	},
 	{
 		"url": "https://raw.githubusercontent.com/sibix/zell-json/main/backgrounds/bullseye-gradient.svg",
@@ -15,7 +16,9 @@
 		"song": "Another cool song",
 		"likes": 6141,
 		"messages": 81,
-		"shares": 136
+		"shares": 136,
+		"class": "blue"
+		
 	},
 	{
 		"url": "https://raw.githubusercontent.com/sibix/zell-json/main/backgrounds/liquid-cheese.svg",
@@ -24,7 +27,8 @@
 		"song": "Very cool song",
 		"likes": 321,
 		"messages": 4,
-		"shares": 15
+		"shares": 15,
+		class": "green"
 	},
 	{
 		"url": "https://raw.githubusercontent.com/sibix/zell-json/main/backgrounds/bullseye-gradient.svg",
@@ -33,6 +37,7 @@
 		"song": "Nice song name here",
 		"likes": 441,
 		"messages": 4,
-		"shares": 10
+		"shares": 10,
+		class": "red"
 	}
 ]
