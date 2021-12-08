@@ -1,0 +1,46 @@
+{
+  "home": {
+    "homeBgColor": "violet",
+    "homeBgImage": "https://raw.githubusercontent.com/sibix/zell-json/main/backgrounds/liquid-cheese.svg",
+    "homeDesc": "This is the sweet home",
+    "homeBtnText": "lets talk",
+    "homeBtnBg": "black",
+    "homeBtnColor": "white"
+  },
+  
+  "products":[	
+      {
+        "url": "https://raw.githubusercontent.com/sibix/zell-json/main/backgrounds/bullseye-gradient.svg",
+        "channel": "Business Loan",
+        "description": "Our Loan, your growth.. description for Business Loan. Our Loan, your growth.. description for Business Loan.Our Loan, your growth.. description for Business Loan",
+        "bgclass": "brand",
+        "whatsappNum":9995305181,
+        "btnText":"Check Eligibility"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/sibix/zell-json/main/backgrounds/liquid-cheese.svg",
+        "channel": "Personal Loan",
+        "description": "Our Loan, your growth.. description for Business Loan. Our Loan, your growth.. description for Business Loan.Our Loan, your growth.. description for Business Loan",
+        "bgclass": "blue",
+        "whatsappNum":9995305181,
+        "btnText":"Apply now"
+        
+      },
+      {
+        "url": "https://raw.githubusercontent.com/sibix/zell-json/main/backgrounds/bullseye-gradient.svg",
+        "channel": "Mortgage Loan",
+        "description": "Our Loan, your growth.. description for Business Loan. Our Loan, your growth.. description for Business Loan.Our Loan, your growth.. description for Business Loan",
+        "bgclass": "green",
+        "whatsappNum":9995305181,
+        "btnText":"I'm intersted"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/sibix/zell-json/main/backgrounds/liquid-cheese.svg",
+        "channel": "Vehicle Loan",
+        "description": "Our Loan, your growth.. description for Business Loan. Our Loan, your growth.. description for Business Loan.Our Loan, your growth.. description for Business Loant",
+        "bgclass": "red",
+        "whatsappNum":9995305181,
+        "btnText":"Apply now"
+      }
+    ]
+}
