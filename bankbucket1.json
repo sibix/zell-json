@@ -1,5 +1,6 @@
 {
   "home": {
+    "logo": "url"
     "homeBgColor": "violet",
     "homeBgImage": "https://raw.githubusercontent.com/sibix/zell-json/main/backgrounds/liquid-cheese.svg",
     "homeDesc": "This is the sweet home",
