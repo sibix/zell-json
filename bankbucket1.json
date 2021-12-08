@@ -1,7 +1,7 @@
 {
   "home": {
     "username": "bankbucket",
-    "brnadName": "Bank Bucket",
+    "brandName": "Bank Bucket",
     "logo": "https://raw.githubusercontent.com/sibix/zell-json/main/bankbucket.png",
     "homeBgColor": "violet",
     "homeBgImage": "https://raw.githubusercontent.com/sibix/zell-json/main/backgrounds/liquid-cheese.svg",
