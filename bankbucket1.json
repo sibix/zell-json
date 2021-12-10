@@ -44,6 +44,22 @@
         "bgclass": "red",
         "whatsappNum":9995552555,
         "btnText":"Apply now"
+      },
+    {
+        "url": "https://raw.githubusercontent.com/sibix/zell-json/main/bgbankbucket/1.jpg",
+        "channel": "Property Loan",
+        "description": "Our Loan, your growth.. description for Business Loan. Our Loan, your growth.. description for Business Loan.Our Loan, your growth.. description for Business Loant",
+        "bgclass": "red",
+        "whatsappNum":9995552555,
+        "btnText":"Apply now"
+      },
+    {
+        "url": "https://raw.githubusercontent.com/sibix/zell-json/main/bgbankbucket/3.jpg",
+        "channel": "Quick Processing",
+        "description": "Loans are processed quick quick quick",
+        "bgclass": "red",
+        "whatsappNum":9995552555,
+        "btnText":"Apply now"
       }
     ]
 }
