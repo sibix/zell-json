@@ -4,7 +4,7 @@
     "brandName": "Bank Bucket",
     "logo": "https://raw.githubusercontent.com/sibix/zell-json/main/bankbucket.png",
     "homeBgColor": "violet",
-    "homeBgImage": "https://raw.githubusercontent.com/sibix/zell-json/main/backgrounds/bullseye-gradient.svg",
+    "homeBgImage": "https://raw.githubusercontent.com/sibix/zell-json/main/bgbankbucket/homebanner.jpg",
     "homeDesc": "Test OUR LOAN. YOUR GROWTH. bankBucket helps you get loans with ease.",
     "homeBtnText": "lets talk",
     "homeBtnBg": "black",
