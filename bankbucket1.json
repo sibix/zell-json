@@ -13,7 +13,7 @@
   
   "products":[	
       {
-        "url": "https://unsplash.it/550/900",
+        "url": "https://raw.githubusercontent.com/sibix/zell-json/main/bgbankbucket/1.jpg",
         "channel": "Business Loan",
         "description": "Our Loan, your growth.. description for Business Loan. Our Loan, your growth.. description for Business Loan.Our Loan, your growth.. description for Business Loan",
         "bgclass": "brand",
@@ -21,7 +21,7 @@
         "btnText":"Check Eligibility"
       },
       {
-        "url": "https://unsplash.it/550/900",
+        "url": "https://raw.githubusercontent.com/sibix/zell-json/main/bgbankbucket/2.jpg",
         "channel": "Personal Loan",
         "description": "Our Loan, your growth.. description for Business Loan. Our Loan, your growth.. description for Business Loan.Our Loan, your growth.. description for Business Loan",
         "bgclass": "blue",
@@ -30,7 +30,7 @@
         
       },
       {
-        "url": "https://unsplash.it/555/900",
+        "url": "https://raw.githubusercontent.com/sibix/zell-json/main/bgbankbucket/3.jpg",
         "channel": "Mortgage Loan",
         "description": "Our Loan, your growth.. description for Business Loan. Our Loan, your growth.. description for Business Loan.Our Loan, your growth.. description for Business Loan",
         "bgclass": "green",
@@ -38,7 +38,7 @@
         "btnText":"I'm intersted"
       },
       {
-        "url": "https://placekitten.com/900/1600",
+        "url": "https://raw.githubusercontent.com/sibix/zell-json/main/bgbankbucket/2.jpg",
         "channel": "Vehicle Loan",
         "description": "Our Loan, your growth.. description for Business Loan. Our Loan, your growth.. description for Business Loan.Our Loan, your growth.. description for Business Loant",
         "bgclass": "red",
